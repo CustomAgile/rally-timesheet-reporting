@@ -1,0 +1,6 @@
+{
+    "name": "Timesheet Report",
+    "className": "CustomApp",
+    "server": "https://us1.rallydev.com",
+    "sdk": "2.0"
+}
